@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SVC-USUARIO
+server:
+  port: 8002
