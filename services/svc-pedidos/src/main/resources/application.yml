@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SVC-PEDIDOS
+server:
+  port: 8001
